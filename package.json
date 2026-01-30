@@ -28,7 +28,7 @@
     "framer-motion": "^11.3.30",
     "geist": "^1.3.1",
     "nanoid": "^5.0.7",
-    "next": "14.2.6",
+    "next": "16.1.5",
     "next-auth": "5.0.0-beta.4",
     "next-themes": "^0.3.0",
     "openai": "^4.56.0",
